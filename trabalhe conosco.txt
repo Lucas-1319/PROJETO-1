@@ -1,1 +1,9 @@
 trabalhe conosco
+
+nome 
+
+telefone
+
+email
+
+anexar curriculo
