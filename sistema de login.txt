@@ -1,3 +1,9 @@
 SENHA
 
-E-MAIL
+E-MAIL 
+
+NOME DE USUARIO 
+
+CPF
+
+
